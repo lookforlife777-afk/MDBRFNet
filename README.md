@@ -1,6 +1,6 @@
-# MDBRFNet_full (from TB_RFUnet.py)
+# MDBRFNet_full
 
-This repository contains a full, runnable project skeleton (no data included).
+This repository contains a full, runnable project skeleton.
 
 ## Usage (command-line mode)
 - Train U-Net and RF pipeline:
