@@ -14,4 +14,5 @@ This repository contains a full, runnable project skeleton.
 
 ## Notes
 - The `data/` folder doesn't include datasets. Put your TIFF data as configured in `configs/default.yaml`.
+- More codes and data will be made public in the future.
 - Designed for Windows.
