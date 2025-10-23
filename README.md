@@ -1,6 +1,6 @@
 # MDBRFNet_full
 
-This repository contains a full, runnable project skeleton.
+This project is designed for remote sensing multi-modal pixel-level classification, based on the improved Unet and RF classifiers.
 
 ## Usage (command-line mode)
 - Train U-Net and RF pipeline:
